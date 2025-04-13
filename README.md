@@ -14,7 +14,7 @@ Vytvorenie príkladov modelov pre zvolenú množinu štýlov a vzorov
 
 ## Plán práce
 
-| Dátum        | Úloha / míľnik                         |
+| Dátum        | Úloha                        |
 |-------------|----------------------------------------|
 | 26. 02. 2025 | Začiatok práce, definovanie cieľov    |
 | 12. 03. 2025 | Zber a štúdium literatúry              |
