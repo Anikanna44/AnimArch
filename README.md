@@ -1,7 +1,7 @@
 
 # Diplomová práca: Modelovanie softvérových štýlov a vzorov
-# Školiteľ: Ing. Lukáš Radoský
-# Autor: Anna Lenhardtová
+## Školiteľ: Ing. Lukáš Radoský
+## Autor: Anna Lenhardtová
 
 ## Anotácia
 Vo vývoji softvéru vznikajú zadania, problémy a situácie, ktoré sa naprieč projektami opakujú. Softvérové inžinierstvo sa takýmito javmi zaoberá a ponúka na nie riešenia. Pre problémy celkovej štruktúry softvérových systémov ponúka architektonické štýly, ktoré na vysokej úrovni abstrakcie definujú štruktúru softvéru. Príkladom sú Pipes&Filters, Blackboard, mikroslužby a podobne. Pre často sa opakujúce problémy na nižšej úrovni granularity ponúka návrhové vzory, napríklad Composite, Abstract Factory a podobne.
