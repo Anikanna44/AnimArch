@@ -20,7 +20,7 @@ Vytvorenie príkladov modelov pre zvolenú množinu štýlov a vzorov
 | 12. 03. 2025 | Zber a štúdium literatúry              |
 | 26. 03. 2025 | Výber vzorov             |
 | 09. 04. 2025 | Príprava class diagramu vzoru Builder |
-| 23. 04. 2025 | |
+| 23. 04. 2025 | Rozšírenie animácie vzoru Builder |
 | 06. 05. 2025 |  |
 
 
