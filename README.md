@@ -21,6 +21,7 @@ Vytvorenie príkladov modelov pre zvolenú množinu štýlov a vzorov
 | 26. 03. 2025 | Výber vzorov             |
 | 09. 04. 2025 | Príprava class diagramu vzoru Builder |
 | 23. 04. 2025 | Rozšírenie animácie vzoru Builder |
-| 06. 05. 2025 |  |
+| 30. 04. 2025 | Úprava animácia vzoru Builder, príprava obsahu práce |
+| 14. 05. 2025 | Príprava prezentácie pre Projektový seminár (1)|
 
 
