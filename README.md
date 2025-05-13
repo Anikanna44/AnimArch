@@ -26,14 +26,14 @@ Vytvorenie príkladov modelov pre zvolenú množinu štýlov a vzorov
 
 ## Literatúra
 
-Radosky, Lukas, and Ivan Polasek. "Executable Multi-Layered Software." arXiv preprint arXiv:2501.08186 (2025).
+* Radosky, Lukas, and Ivan Polasek. "Executable Multi-Layered Software." arXiv preprint arXiv:2501.08186 (2025).
 
-Schauer, Reinhard, and Rudolf K. Keller. "Pattern visualization for software comprehension." Proceedings. 6th International Workshop on Program Comprehension. IWPC'98 (Cat. No. 98TB100242). IEEE, 1998.
+* Schauer, Reinhard, and Rudolf K. Keller. "Pattern visualization for software comprehension." Proceedings. 6th International Workshop on Program Comprehension. IWPC'98 (Cat. No. 98TB100242). IEEE, 1998.
 
-Ferenc, Matej, Ivan Polasek, and Juraj Vincur. "Collaborative modeling and visualization of software systems using multidimensional UML." 2017 IEEE Working Conference on Software Visualization (VISSOFT). IEEE, 2017.
+* Ferenc, Matej, Ivan Polasek, and Juraj Vincur. "Collaborative modeling and visualization of software systems using multidimensional UML." 2017 IEEE Working Conference on Software Visualization (VISSOFT). IEEE, 2017.
 
-Hailpern, Brent, and Peri Tarr. "Model-driven development: The good, the bad, and the ugly." IBM systems journal 45.3 (2006): 451-461.
+* Hailpern, Brent, and Peri Tarr. "Model-driven development: The good, the bad, and the ugly." IBM systems journal 45.3 (2006): 451-461.
 
-Gregorovič, Lukáš, Ivan Polasek, and Branislav Sobota. "Software model creation with multidimensional UML." Information and Communication Technology: Third IFIP TC 5/8 International Conference, ICT-EurAsia 2015, and 9th IFIP WG 8.9 Working Conference, CONFENIS 2015, Held as Part of WCC 2015, Daejeon, Korea, October 4-7, 2015, Proceedings 3. Springer International Publishing, 2015.
+* Gregorovič, Lukáš, Ivan Polasek, and Branislav Sobota. "Software model creation with multidimensional UML." Information and Communication Technology: Third IFIP TC 5/8 International Conference, ICT-EurAsia 2015, and 9th IFIP WG 8.9 Working Conference, CONFENIS 2015, Held as Part of WCC 2015, Daejeon, Korea, October 4-7, 2015, Proceedings 3. Springer International Publishing, 2015.
 
-Sharma, Anubha, Manoj Kumar, and Sonali Agarwal. "A complete survey on software architectural styles and patterns." Procedia Computer Science 70 (2015): 16-28.
+* Sharma, Anubha, Manoj Kumar, and Sonali Agarwal. "A complete survey on software architectural styles and patterns." Procedia Computer Science 70 (2015): 16-28.
