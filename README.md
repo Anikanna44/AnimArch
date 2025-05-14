@@ -10,7 +10,7 @@ Analyzujte možnosti modelovania architektonických štýlov a návrhových vzo
 
 ## Ciele práce
 Návrh spôsobu modelovania zvoleného architektonického štýlu či štýlov na nízkej úrovni abstrakcie
-Vytvorenie príkladov modelov pre zvolenú množinu štýlov a vzorov
+Vytvorenie príkladov modelov pre zvolenú množinu štýlov a vzorov.
 
 ## Plán práce
 
@@ -18,22 +18,20 @@ Vytvorenie príkladov modelov pre zvolenú množinu štýlov a vzorov
 |-------------|----------------------------------------|
 | 26. 02. 2025 | Začiatok práce, definovanie cieľov    |
 | 12. 03. 2025 | Zber a štúdium literatúry              |
-| 26. 03. 2025 | Výber vzorov             |
+| 26. 03. 2025 | Výber vzorov a štýlu             |
 | 09. 04. 2025 | Príprava class diagramu vzoru Builder |
 | 23. 04. 2025 | Rozšírenie animácie vzoru Builder |
-| 30. 04. 2025 | Úprava animácia vzoru Builder, príprava obsahu práce |
+| 30. 04. 2025 | Dokončenie animácia vzoru Builder, príprava obsahu textu práce |
 | 14. 05. 2025 | Príprava prezentácie pre Projektový seminár (1)|
 
 ## Literatúra
 
-* Radosky, Lukas, and Ivan Polasek. "Executable Multi-Layered Software." arXiv preprint arXiv:2501.08186 (2025).
+* Radosky, Lukas, and Ivan Polasek. "Executable multi-layered software models." Proceedings of the 1st International Workshop on Designing Software. 2024.
 
 * Schauer, Reinhard, and Rudolf K. Keller. "Pattern visualization for software comprehension." Proceedings. 6th International Workshop on Program Comprehension. IWPC'98 (Cat. No. 98TB100242). IEEE, 1998.
 
 * Ferenc, Matej, Ivan Polasek, and Juraj Vincur. "Collaborative modeling and visualization of software systems using multidimensional UML." 2017 IEEE Working Conference on Software Visualization (VISSOFT). IEEE, 2017.
 
 * Hailpern, Brent, and Peri Tarr. "Model-driven development: The good, the bad, and the ugly." IBM systems journal 45.3 (2006): 451-461.
-
-* Gregorovič, Lukáš, Ivan Polasek, and Branislav Sobota. "Software model creation with multidimensional UML." Information and Communication Technology: Third IFIP TC 5/8 International Conference, ICT-EurAsia 2015, and 9th IFIP WG 8.9 Working Conference, CONFENIS 2015, Held as Part of WCC 2015, Daejeon, Korea, October 4-7, 2015, Proceedings 3. Springer International Publishing, 2015.
 
 * Sharma, Anubha, Manoj Kumar, and Sonali Agarwal. "A complete survey on software architectural styles and patterns." Procedia Computer Science 70 (2015): 16-28.
