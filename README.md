@@ -24,6 +24,11 @@ Vytvorenie príkladov modelov pre zvolenú množinu štýlov a vzorov.
 | 30. 04. 2025 | Dokončenie animácia vzoru Builder, príprava obsahu textu práce |
 | 14. 05. 2025 | Príprava prezentácie pre Projektový seminár (1)|
 
+## Odkazy
+
+* Súčasná verzia textu práce: [Diplomova_praca_text.pdf](Diplomova_praca_text.pdf)
+* Prezentácia na predmet Projektový seminár (1): [Prezentácia_Projektový_seminár_1](Prezentácia_Projektový_seminár_1.pdf)
+
 ## Literatúra
 
 * Radosky, Lukas, and Ivan Polasek. "Executable multi-layered software models." Proceedings of the 1st International Workshop on Designing Software. 2024.
