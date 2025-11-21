@@ -19,10 +19,15 @@ Vytvorenie príkladov modelov pre zvolenú množinu štýlov a vzorov.
 | 26. 02. 2025 | Začiatok práce, definovanie cieľov    |
 | 12. 03. 2025 | Zber a štúdium literatúry              |
 | 26. 03. 2025 | Výber vzorov a štýlu             |
-| 09. 04. 2025 | Príprava class diagramu vzoru Builder |
-| 23. 04. 2025 | Rozšírenie animácie vzoru Builder |
-| 30. 04. 2025 | Dokončenie animácia vzoru Builder, príprava obsahu textu práce |
+| 09. 04. 2025 | Príprava triedneho diagramu vzoru Staviteľ |
+| 23. 04. 2025 | Rozšírenie animácie vzoru Staviteľ |
+| 30. 04. 2025 | Dokončenie animácia vzoru Staviteľ, príprava obsahu textu práce |
 | 14. 05. 2025 | Príprava prezentácie pre Projektový seminár (1)|
+| júl a august 2025 | Písanie teoretických základov v texte práce |
+| 30. 09. 2025 | Začiatok implementácie štýlu Potrubia a filtre |
+| 22. 10. 2025 | Dokončenie prvej a začiatok druhej implementácie štýlu Potrubia a filtre | 
+| 05. 11. 2025 | Finalizácia implementácie štýlu Potrubia a filtre |
+| 19. 11. 2025 | Príprava triedneho diagramu vzoru Most |
 
 ## Odkazy
 
