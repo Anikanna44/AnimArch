@@ -1,0 +1,14 @@
+Layered Design
+Client-Server Model
+Pipes and Filters
+Event-Driven Model
+Pipeline Pattern
+Filtering Rules Pattern
+Microservices
+Service-Oriented Model
+Model-View-Controller (MVC)
+Filters and Pipes
+Pipe Communication Model
+Filter Stream Design
+Blackboard Model
+Microkernel Design

@@ -1,25 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="42ea26bc-c901-4139-a529-e3fa9aa6f0e2" name="Changes" comment="" />
+    <list default="true" id="42ea26bc-c901-4139-a529-e3fa9aa6f0e2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/Builder_buildAllBiomes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/Builder_buildAllBiomes.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/Builder_buildOneBiome.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/Builder_buildOneBiome.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/Builder_generate_biome.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/Builder_generate_biome.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Builder.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Builder.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Builder_Biomes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Builder_Biomes.xml.meta" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  <component name="ComposerSettings">
+    <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\Program Files\php-8.2.15\php.exe" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2Hj8Q1IADVRsyAMRkClQVSvE1Xt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Dokumenty/_Mgr/25_zimny/Webové programovanie/cvicenie8/uloha-08-zdroj",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-ba97393d7c68-b4dcf6bb9de9-com.jetbrains.php.sharedIndexes-PS-233.13135.108" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -30,6 +70,12 @@
       <option name="presentableId" value="Default" />
       <updated>1668787112485</updated>
       <workItem from="1668787113836" duration="183000" />
+      <workItem from="1763383813226" duration="14000" />
+      <workItem from="1763827334834" duration="166000" />
+      <workItem from="1763827577844" duration="968000" />
+      <workItem from="1764227865736" duration="5000" />
+      <workItem from="1764621583280" duration="122000" />
+      <workItem from="1764832644096" duration="47000" />
     </task>
     <servers />
   </component>
