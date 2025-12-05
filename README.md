@@ -28,11 +28,14 @@ Vytvorenie príkladov modelov pre zvolenú množinu štýlov a vzorov.
 | 22. 10. 2025 | Dokončenie prvej a začiatok druhej implementácie štýlu Potrubia a filtre | 
 | 05. 11. 2025 | Finalizácia implementácie štýlu Potrubia a filtre |
 | 19. 11. 2025 | Príprava triedneho diagramu vzoru Most |
+| 26. 11. 2025 | Prvá verzie animácie vzoru Most |
+| 03. 12. 2025 | Finalizácia ucelených kapitol a príprava prezentácie pre Projektový seminár (2)|
 
 ## Odkazy
 
 * Súčasná verzia textu práce: [Diplomova_praca_text.pdf](Diplomova_praca_text.pdf)
 * Prezentácia na predmet Projektový seminár (1): [Prezentácia_Projektový_seminár_1](Prezentácia_Projektový_seminár_1.pdf)
+* Prezentácia na predmet Projektový seminár (2): [Prezentácia_Projektový_seminár_2](Prezentácia_Projektový_seminár_2.pdf)
 
 ## Literatúra
 
