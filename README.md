@@ -30,6 +30,7 @@ Vytvorenie príkladov modelov pre zvolenú množinu štýlov a vzorov.
 | 19. 11. 2025 | Príprava triedneho diagramu vzoru Most |
 | 26. 11. 2025 | Prvá verzie animácie vzoru Most |
 | 03. 12. 2025 | Finalizácia ucelených kapitol a príprava prezentácie pre Projektový seminár (2)|
+| 15. 12. 2025 | Dokončenie príkladu vzoru Most |
 
 ## Odkazy
 
