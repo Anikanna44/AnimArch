@@ -31,6 +31,15 @@ Vytvorenie príkladov modelov pre zvolenú množinu štýlov a vzorov.
 | 26. 11. 2025 | Prvá verzie animácie vzoru Most |
 | 03. 12. 2025 | Finalizácia ucelených kapitol a príprava prezentácie pre Projektový seminár (2)|
 | 15. 12. 2025 | Dokončenie príkladu vzoru Most |
+| január 2026  | Finalizácia praktickej časti textu |
+| 17. 02. 2026 | Začiatok prípravy experimentu |
+| 24. 02. 2026 | Pokračovanie prípravy experimentu |
+| 02. 03. 2026 | Vykonanie experimentu na predmete Architektúry softvérových systémov |
+| 10. 03. 2026 | Práca na článku pre konferenciu InnovAite a pre konferenciu ICETA |
+| marec a apríl 2026 | Spísanie evaluácie, analýzy a syntézy dát z experimentu |
+| 29. 04. 2026 | Účasť na konferencii InnovAIte |
+| 05. 05 2026 | Posledné úpravy a finalizácia textu práce |
+
 
 ## Odkazy
 
