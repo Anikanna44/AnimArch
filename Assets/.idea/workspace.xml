@@ -5,19 +5,90 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42ea26bc-c901-4139-a529-e3fa9aa6f0e2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/Animations/Builder_buildAllBiomes.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/Animations/Builder_buildAllBiomes.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/Animations/Builder_buildOneBiome.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/Animations/Builder_buildOneBiome.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/Animations/Builder_generate_biome.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/Animations/Builder_generate_biome.json.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/Builder.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/Builder.xml.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/Builder_Biomes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resources/Builder_Biomes.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prefabs/Aggregation.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Prefabs/Aggregation.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/AST.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/AST.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/AbstractFactory_FantasyArmy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/AbstractFactory_FantasyArmy.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/AST_Strategy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/AST_Strategy.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/AbstractFactory_FantasyArmy_ParallelPerRace.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/AbstractFactory_FantasyArmy_ParallelPerRace.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/AbstractFactory_FantasyArmy_Sequential.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/AbstractFactory_FantasyArmy_Sequential.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/AbstractFactory_FantasyArmy_SequentialCleared.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/AbstractFactory_FantasyArmy_SequentialCleared.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/Bridge.json" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Animations/Bridge.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/Bridge.json.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Animations/Bridge.json.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/Bridge2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/Bridge2.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/Builder_1_director.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/Builder_1_director.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/Builder_2_directors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/Builder_2_directors.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/ChainOfResponsibility_Authentication_animV4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/ChainOfResponsibility_Authentication_animV4.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/Mediator-FontDirectorCase" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/Mediator-FontDirectorCase.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/Observer-VaccinationCase copy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/Observer-VaccinationCase copy.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/Observer-VaccinationCase-Params.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/Observer-VaccinationCase-Params.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/Observer-VaccinationCase.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/Observer-VaccinationCase.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/Observer-VaccinationCaseWriteAndIndexation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/Observer-VaccinationCaseWriteAndIndexation.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/Pipes_and_Filters_Final.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/Pipes_and_Filters_Final.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/Pipes_and_Filters_Push.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/Pipes_and_Filters_Push.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/Pipes_and_Filters_Third_with_Push.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/Pipes_and_Filters_Third_with_Push.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/a_pragma_02.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/a_pragma_02.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/aaa_consoleSchedTest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/aaa_consoleSchedTest.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/ast_01.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/ast_01.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/createListAnimation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/createListAnimation.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/files_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/files_1.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/kacicky_error.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/kacicky_error.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/kacicky_success.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/kacicky_success.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/test_type_name.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Animations/test_type_name.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/BillingMode.json.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/BillingMode.json.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Bridge.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Bridge.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Bridge.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Bridge.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Bridge2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Bridge2.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Builder_1_director.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Builder_1_director.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Builder_2_directors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Builder_2_directors.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/ChainOfResponsibility_AuthenticationHandlers_v3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/ChainOfResponsibility_AuthenticationHandlers_v3.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/MaskingFiles/ASTMasking.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/MaskingFiles/ASTMasking.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/MaskingFiles/AbstractFactoryMasking.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/MaskingFiles/AbstractFactoryMasking.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Mediator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Mediator.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Observer-Veterinarian-With-More-Params.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Observer-Veterinarian-With-More-Params.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Observer-Veterinarian.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Observer-Veterinarian.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Pipes_and_filters_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Pipes_and_filters_Final.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Pipes_and_filters_second.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Pipes_and_filters_second.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/visitor_v2_s_client_metodami.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/visitor_v2_s_client_metodami.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,20 +111,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Dokumenty/_Mgr/25_zimny/Webové programovanie/cvicenie8/uloha-08-zdroj",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Dokumenty/_Mgr/25_zimny/Webové programovanie/cvicenie8/uloha-08-zdroj&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -76,6 +147,16 @@
       <workItem from="1764227865736" duration="5000" />
       <workItem from="1764621583280" duration="122000" />
       <workItem from="1764832644096" duration="47000" />
+      <workItem from="1765792679091" duration="46000" />
+      <workItem from="1765796696283" duration="355000" />
+      <workItem from="1772458428155" duration="2000" />
+      <workItem from="1774886031512" duration="5000" />
+      <workItem from="1774886152049" duration="337000" />
+      <workItem from="1776164221672" duration="66000" />
+      <workItem from="1777545752561" duration="48000" />
+      <workItem from="1777557403009" duration="91000" />
+      <workItem from="1777986737171" duration="4000" />
+      <workItem from="1777987082280" duration="11000" />
     </task>
     <servers />
   </component>
