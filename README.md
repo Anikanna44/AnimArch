@@ -43,7 +43,7 @@ Vytvorenie príkladov modelov pre zvolenú množinu štýlov a vzorov.
 
 ## Odkazy
 
-* Súčasná verzia textu práce: [Diplomova_praca_text.pdf](Diplomova_praca_text.pdf)
+* Súčasná verzia textu práce: [Diplomova_praca_text.pdf](Diplomova_praca.pdf)
 * Prezentácia na predmet Projektový seminár (1): [Prezentácia_Projektový_seminár_1](Prezentácia_Projektový_seminár_1.pdf)
 * Prezentácia na predmet Projektový seminár (2): [Prezentácia_Projektový_seminár_2](Prezentácia_Projektový_seminár_2.pdf)
 
